@@ -1,0 +1,14 @@
+{
+  "name": "uprunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countNodes.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Marlen Buri",
+  "license": "GPLV3",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
